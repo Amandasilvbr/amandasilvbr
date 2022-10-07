@@ -1,7 +1,7 @@
   <h1> Olá, eu sou a Amanda!👋 </h1>
 
-- 🔭 Atualmente estudando tecnologias relacionadas ao front-end!
-- 🌱 Cursando Engenharia da Computação e aprendendo JavaScript e React!
+- 🔭 Atualmente cursando engenharia da computação!
+- 🌱 Aprendendo JavaScript e SQL!
 
 <div align="center" > 
 <a href="https://github.com/amandasilvbr/github-readme-stats">
