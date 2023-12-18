@@ -1,7 +1,6 @@
   <h1> Olá, eu sou a Amanda!👋 </h1>
 
 - 🔭 Atualmente cursando engenharia da computação!
-- 🌱 Aprendendo Golang!
 
 <div align="center" > 
 <a href="https://github.com/Amandasilvbr">
