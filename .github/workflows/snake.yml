@@ -6,22 +6,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Generate snake game from GitHub contributions
+        id: generate_snake
         uses: Platane/snk@v2.0.0
         with:
-          github_user_name: amandasilvbr
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push generated snake game to repository
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          directory: dist
+  commit:
+    runs-on: ubuntu-latest
+    needs: generate
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Commit generated snake game to main branch
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "Generate Snake Game" || echo "No changes to commit"
+          git push origin main
