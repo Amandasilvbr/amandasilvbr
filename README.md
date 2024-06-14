@@ -24,3 +24,8 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandasilvbr&theme=radical&hide_border=true" />
 </p>
 
+<!-- GitHub Snake Game -->
+<p align="center">
+  <img src="https://github.com/amandasilvbr/amandasilvbr/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
