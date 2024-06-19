@@ -25,7 +25,9 @@
 </p>
 
 <!-- GitHub Snake Game -->
-<p align="center">
-  <img src="https://github.com/amandasilvbr/amandasilvbr/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandasilvbr/amandasilvbr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandasilvbr/amandasilvbr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amandasilvbr/amandasilvbr/output/github-contribution-grid-snake.svg">
+</picture>
 
