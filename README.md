@@ -8,13 +8,12 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
 
 - 🔭 **Atualmente**: Aprimorando minhas habilidades em **Golang** e desenvolvendo projetos na área de **APIs**.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/amanda-brunelli-145020210/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+
 
 ---
 
-## 🚀 Habilidades Técnicas
+
+### Habilidades Técnicas
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/> 
@@ -37,7 +36,7 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
   
 ---
 
-## 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center"> 
   <a href="https://github.com/Amandasilvbr">
@@ -46,20 +45,13 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <div style="margin: 10px;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandasilvbr&theme=radical&hide_border=true" />
-  </div>
-  <div style="margin: 10px;">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandasilvbr&theme=radical" />
-  </div>
-</div>
+### GitHub Contributions
+
+| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amandasilvbr&theme=radical&hide_border=true) | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandasilvbr&theme=radical) |
+|---|---|
 
 
-
----
-
-## 🐍 GitHub Snake Game
+### GitHub Snake Game
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandasilvbr/amandasilvbr/output/github-contribution-grid-snake-dark.svg">
@@ -68,6 +60,12 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
 </picture>
 
 ---
+
+### Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amanda-brunelli-145020210/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 
 
