@@ -40,7 +40,7 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
 
 <div align="center"> 
   <a href="https://github.com/Amandasilvbr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasilvbr&count_private=true&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasilvbr&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasilvbr&layout=compact&show_icons=true&theme=radical" />
   </a>
 </div>
