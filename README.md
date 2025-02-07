@@ -47,8 +47,9 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
 
 ### GitHub Contributions
 
-| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amandasilvbr&theme=radical&hide_border=true) | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandasilvbr&theme=radical) |
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=amandasilvbr&background=141321&currStreakLabel=A9FEF6&sideLabels=A9FEF6&ring=D93B7D&dates=EBEBEB&sideNums=A9FEF6&currStreakNum=A9FEF6&border=EBEBEB00)](https://git.io/streak-stats) | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandasilvbr&theme=radical) |
 |---|---|
+
 
 
 ### GitHub Snake Game
@@ -66,6 +67,3 @@ Sou uma estudante de **Engenharia da Computação**, apaixonada por tecnologia e
 <p align="left">
   <a href="https://www.linkedin.com/in/amanda-brunelli-145020210/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-
-
